@@ -1,27 +1,27 @@
 {
-  "name": "base",
-  "version": "1.0.0",
-  "description": "Base para projetos",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "eslint": "./node_modules/.bin/eslint *.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/leo-torrez/base.git"
-  },
-  "author": "Léo Torrez",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/leo-torrez/base/issues"
-  },
-  "homepage": "https://github.com/leo-torrez/base#readme",
-  "devDependencies": {
-    "eslint": "^4.9.0",
-    "eslint-config-airbnb": "^16.1.0",
-    "eslint-plugin-import": "^2.8.0",
-    "eslint-plugin-jsx-a11y": "^6.0.2",
-    "eslint-plugin-react": "^7.4.0"
-  }
+    "name": "estudo-react",
+    "version": "1.0.0",
+    "description": "estudo-react para projetos",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "eslint": "./node_modules/.bin/eslint *.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/leo-torrez/estudo-react.git"
+    },
+    "author": "Léo Torrez",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/leo-torrez/estudo-react/issues"
+    },
+    "homepage": "https://github.com/leo-torrez/estudo-react#readme",
+    "devDependencies": {
+        "eslint": "^4.9.0",
+        "eslint-config-airbnb": "^16.1.0",
+        "eslint-plugin-import": "^2.8.0",
+        "eslint-plugin-jsx-a11y": "^6.0.2",
+        "eslint-plugin-react": "^7.4.0"
+    }
 }
